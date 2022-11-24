@@ -4,7 +4,7 @@ public class StringExample {
 
 	public static void main(String[] args) {
 	
-		String name="childuuuuuuuu2";
+		String name="featuree1";
 		for(int i=0;i<name.length();i++)
 		{
 			if(name.charAt(i)==name.charAt(i+1))
